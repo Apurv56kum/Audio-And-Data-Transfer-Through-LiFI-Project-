@@ -9,8 +9,11 @@ Communications at the University of Edinburgh, institute LiFi demonstrated a Li-
 conference in Edinburgh on 12th July 2011.
 
 ## project image
+![CamScanner 02-21-2023 23 24_1](https://github.com/Apurv56kum/Audio-And-Data-Transfer-Through-LiFI-Project-/assets/75967582/616c5f92-b23e-4f43-97b4-bc2f2dc21e12)
+![CamScanner 02-21-2023 23 24_3](https://github.com/Apurv56kum/Audio-And-Data-Transfer-Through-LiFI-Project-/assets/75967582/a50314b6-4f5d-4b08-a467-eb8db3a432ee)
 
-
+## Circuit Diagram
+![tx rx im](https://github.com/Apurv56kum/Audio-And-Data-Transfer-Through-LiFI-Project-/assets/75967582/d7a032e7-8149-4b8d-9f97-9923bb7d81f6)
 
 ## Working
 4.1. Transfer of text:
